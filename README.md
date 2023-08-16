@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **JavaScript, Express.js and Sequelize**
 
+- 💬 Also about **React.js, Next.js and TypeScript**
+
 - 📫 How to reach me **pedrofedecasillas2@gmail.com**
 
 
@@ -49,7 +51,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,css,discord,express,firebase,github,html,js,materialui,postgresql,nodejs,postman,react,redux,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,css,discord,express,sequileze,github,html,js,materialui,postgresql,nodejs,next,insomnia,vite,react,redux,ts,vscode&perline=14" />
   </a>
 </p>
 
