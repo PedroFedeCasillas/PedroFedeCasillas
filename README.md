@@ -51,7 +51,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,css,discord,express,sequileze,github,html,js,materialui,postgresql,nodejs,next,insomnia,vite,react,redux,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,css,discord,express,github,html,js,materialui,postgresql,nodejs,next,postman,vite,react,redux,ts,vscode&perline=14" />
   </a>
 </p>
 
