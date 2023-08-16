@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [La Gruta Back](https://github.com/fedezelarayan/la_gruta)
   
-- - 🔭 I’m currently working on [La Gruta Front](https://github.com/sofiaparraweb/lagrutaclient)
+- 🔭 I’m currently working on [La Gruta Front](https://github.com/sofiaparraweb/lagrutaclient)
 
-- 🌱 I’m currently learning **Java, mongoDB and Computer Science**
+<!--- - 🌱 I’m currently learning **Java, mongoDB and Computer Science**-->
 
 - 👯 I’m looking to collaborate on **projects**
 
@@ -49,7 +49,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,express,firebase,github,html,java,js,materialui,mongodb,postgresql,nodejs,postman,py,react,redux,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,css,discord,express,firebase,github,html,js,materialui,postgresql,nodejs,postman,react,redux,ts,vscode&perline=14" />
   </a>
 </p>
 
