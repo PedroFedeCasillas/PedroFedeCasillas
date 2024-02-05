@@ -1,20 +1,24 @@
 <h1 align="center">
-  ¡Bienvenido/a a mi perfil!
+  ¡Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Pedro+Federico+Casillas++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
-<h3 align="center">A passionate frontend y backend developer from Argentina</h3>
+<!---<h3 align="center">A passionate frontend y backend developer from Argentina</h3> -->
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on [La Gruta Back](https://github.com/fedezelarayan/la_gruta)
+- 🔭 I’m currently working on [Bookverse Back](https://github.com/GianPolastri/BookVerse-API)
   
-- 🔭 I’m currently working on [La Gruta Front](https://github.com/sofiaparraweb/lagrutaclient)
+- 🔭 I’m currently working on [BookVerse Front](https://github.com/sofiaparraweb/bookVerseClient)
+
+<!--- - 🔭 I’m currently working on [La Gruta Back](https://github.com/fedezelarayan/la_gruta)
+  
+- 🔭 I’m currently working on [La Gruta Front](https://github.com/sofiaparraweb/lagrutaclient) -->
 
 <!--- - 🌱 I’m currently learning **Java, mongoDB and Computer Science**-->
 
