@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **JavaScript, Express.js and Sequelize**
+- 💬 Ask me about **JavaScript, NodeJs, NestJs, Express.js and Sequelize**
 
 - 💬 Also about **React.js, Next.js and TypeScript**
 
