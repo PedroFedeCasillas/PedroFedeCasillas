@@ -24,9 +24,9 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **JavaScript, NodeJs, NestJs, Express.js and Sequelize**
+- 💬 Ask me about **JavaScript, NodeJs, Express.js, Postgres and Sequelize**
 
-- 💬 Also about **React.js, Next.js and TypeScript**
+- 💬 Also about **React.js, and Redux**
 
 - 📫 How to reach me **pedrofedecasillas2@gmail.com**
 
