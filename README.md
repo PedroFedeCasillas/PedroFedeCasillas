@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **JavaScript, NodeJs, Express.js, Postgres and Sequelize**
 
-- 💬 Also about **React.js, and Redux**
+- 💬 Also about **React.js, Redux and Material-ui**
 
 - 📫 How to reach me **pedrofedecasillas2@gmail.com**
 
