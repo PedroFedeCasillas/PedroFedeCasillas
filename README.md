@@ -7,7 +7,7 @@
 </p>
 <!---<h3 align="center">A passionate frontend y backend developer from Argentina</h3> -->
 
-![Snake animation](https://github.com/PedroFedeCasillas/PedroFedeCasillas/blob/output/github-contribution-grid-snake.gif)
+<!---  ![Snake animation](https://github.com/PedroFedeCasillas/PedroFedeCasillas/blob/output/github-contribution-grid-snake.gif)  -->
 <div align="center">
   <img  src="https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
